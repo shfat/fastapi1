@@ -6,7 +6,7 @@ The system implements full CRUD functionality with strong data validation and a 
 
 ---
 
-## 🚀 Features
+## Features
 
 - Student, Professor, and Course management (CRUD operations)
 - Robust data validation layer to ensure data integrity
@@ -18,7 +18,7 @@ The system implements full CRUD functionality with strong data validation and a 
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - Python 3.12
 - FastAPI
@@ -29,7 +29,7 @@ The system implements full CRUD functionality with strong data validation and a 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `main.py` → API routes and endpoints  
 - `models.py` → Database models  
@@ -40,7 +40,7 @@ The system implements full CRUD functionality with strong data validation and a 
 
 ---
 
-## 📌 API Endpoints
+## API Endpoints
 
 ### Students
 - `POST /create_student/`
@@ -62,7 +62,7 @@ The system implements full CRUD functionality with strong data validation and a 
 
 ---
 
-## 📊 Project Highlights
+## Project Highlights
 
 This project demonstrates:
 
@@ -73,8 +73,4 @@ This project demonstrates:
 - Practical implementation of a real-world CRUD system
 - Understanding of scalable backend structure
 
----
 
-## 👩‍💻 Author
-
-Computer Engineering student focused on backend development, mobile applications, and software engineering.
